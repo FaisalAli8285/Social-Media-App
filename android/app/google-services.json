@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940380612621",
+    "project_id": "finally-social-app",
+    "storage_bucket": "finally-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940380612621:android:2fef14d0311c4fc599cd44",
+        "android_client_info": {
+          "package_name": "com.example.finallysocialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4OcT8gGFjlzWJHvzCk6HgZlhNqq84to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
